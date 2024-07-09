@@ -39,7 +39,7 @@ To visualize training variables on Tensorboard:
 
 To plot the learning history run:
 ```
-    python graphicate_learning.py -f save/model/learning_history.csv
+    python plot_learning_history.py -f save/model/learning_history.csv
 ```
 
 # Paper
